@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn vp_analyzer_api:app
