@@ -1,6 +1,6 @@
 ## Video Poker Analyzer API
 
-This is a fork where I add an Flask API wrapper to the video poker analyzer.
+This is a fork where I add a Flask API wrapper to the video poker analyzer.
 I am using the API to analyze hands in a personal video poker game project.
 https://github.com/hertantoirawan/video-poker-bootcamp
 
